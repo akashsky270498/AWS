@@ -5,3 +5,5 @@ fix: → bug fix
 chore: → maintenance
 docs: → documentation
 refactor: → code improvements
+
+npm create vite@latest client
