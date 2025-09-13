@@ -1,0 +1,35 @@
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# React build
+client/dist/
+client/.vite/
+
+# Logs
+logs/
+*.log
+*.out
+*.err
+
+# Env files
+.env
+.env.*.local
+
+# Docker
+*.pid
+*.seed
+*.pid.lock
+docker-compose.override.yml
+
+# AWS
+infra/.terraform/
+infra/.aws-sam/
+infra/cdk.out/
+
+# Mac/Windows
+.DS_Store
+Thumbs.db
