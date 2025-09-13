@@ -8,6 +8,7 @@ pnpm-debug.log*
 # React build
 client/dist/
 client/.vite/
+client/node_modules
 
 # Logs
 logs/
