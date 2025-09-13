@@ -1,0 +1,7 @@
+Commit naming convention:
+
+feat: → new feature
+fix: → bug fix
+chore: → maintenance
+docs: → documentation
+refactor: → code improvements
